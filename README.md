@@ -12,6 +12,8 @@ This repository demonstrates how to compare and combine multiple retrieval strat
 
 The goal is simple: improve answer quality and grounding by retrieving better context before generation.
 
+https://github.com/user-attachments/assets/0b09bd9e-bbc8-45ba-9ee6-fbd6c0b5c951
+
 ![Advanced RAG terminal output](assets/output.png)
 
 ## Why this project
